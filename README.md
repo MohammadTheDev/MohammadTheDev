@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Frontend Developer<br>I love Programming <br>I love Learning about Frontend and keep myself update <br>I cant work whit out a coffee
+I'm a Junior Frontend Developer passionate about programming, constantly learning to stay updated in frontend technologies. Fueled by coffee and a drive to improve, I love crafting great user experiences and pushing my skills to the next level.
 
 
 ## 🌐 Socials:
