@@ -4,7 +4,6 @@ I'm a Junior Frontend Developer passionate about programming, constantly learnin
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad.dev84) 
-[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://Telegram.com/MArab_Code) 
 
 
 # 💻 Tech Stack:
